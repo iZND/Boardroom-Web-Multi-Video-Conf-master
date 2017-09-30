@@ -10,11 +10,8 @@
 "Archiving": {
     "enabled": true,
     "archiveAlways": false,
-    "pollingInitialTimeout": 5000,
-    "pollingTimeoutMultiplier": 1.5,
     "archiveManager": {
         "enabled": true,
-        "emptyRoomMaxLifetime": 3
       },
    },
    "Feedback":{
